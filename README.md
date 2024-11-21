@@ -20,7 +20,7 @@ Muse is a SwiftUI-based iOS app that allows users to create and share personaliz
 - **Firebase** for:
   - **Authentication**: Secure user login and registration.
   - **Firestore**: Real-time database for storing Muses and user interactions.
-- **Tailwind CSS-inspired Design** for clean and aesthetic styling.
+
 
 ---
 
