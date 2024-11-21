@@ -25,7 +25,7 @@ Muse is a SwiftUI-based iOS app that allows users to create and share personaliz
 ---
 
 ## Screenshots
-_Add screenshots here once your app UI is finalized._
+
 <img width="422" alt="Screenshot 2024-11-20 at 11 30 21 PM" src="https://github.com/user-attachments/assets/5b3a12fd-da5e-4da2-a53d-c47f669d940f">
 <img width="403" alt=<img width="378" alt="Screenshot 2024-11-20 at 11 30 05 PM" src="https://github.com/user-attachments/assets/3494ee4b-becc-4790-a4e7-1e86cb9f1665">
 <img width="378" alt="Screenshot 2024-11-20 at 11 30 05 PM" src="https://github.com/user-attachments/assets/eeeb2541-1a70-4be6-9af7-528bd934a122">
